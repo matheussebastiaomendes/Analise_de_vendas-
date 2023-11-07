@@ -1,5 +1,5 @@
 # Analise_de_vendas
-O projeto foi desenvolvido afim de responder algumas perguntas em cima de uma base de dados de vendas de diversos produtos que são vendidos no Estados Unidos.
+O projeto foi desenvolvido para responder algumas perguntas em cima de uma base de dados de vendas de diversos produtos que são vendidos no Estados Unidos.
 
 Em cima desses dados podemos tirar diversos insights valiosos como Desempenho por Estado, Tendências Temporais, Comparação entre Estados, Participação de Mercado, Análise de Margens de Lucro, Correlações com Fatores Externos, Segmentação de Clientes, Geolocalização de Vendas, Previsão de Vendas Futuras, Ações Estratégicas, Custos e Rentabilidade.
 
